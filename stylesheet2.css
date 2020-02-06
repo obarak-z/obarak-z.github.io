@@ -147,7 +147,7 @@ body {
     }
     content-top {
         width:100%;
-        margin: ;
+        margin: 0 0 50px 0;
     }
     .content {
         width: 100%;
@@ -160,5 +160,8 @@ body {
 	}
 	header-list {
 		display: none;
+	}
+	.message-form {
+		margin: 0;
 	}
 }
