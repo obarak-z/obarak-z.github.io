@@ -35,7 +35,6 @@ body {
     margin: 16px 20px;
 }
 
-
 .main {
     height: 1900px;
     width: 100%;
@@ -134,3 +133,19 @@ body {
 .footer span{
     color:red;
 }
+.clear {
+    clear: left;
+}
+
+/*ここからレスポンシブ*/
+
+@media(max-width:420px){
+    .top-waraper {
+        width:100%;
+        text-align:center;
+    }
+    .content-item {
+        width: 100%;
+    }
+}
+
