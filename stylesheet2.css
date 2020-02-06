@@ -40,10 +40,8 @@ body {
     width: 100%;
 }
 .top-waraper {  
-    padding: 150px 150px 100px 300px;
-}
-.copy-continer {
-    padding-left: 150px;
+    text-align: center;
+    padding: 150px 0;
 }
 .copy-continer span{
     font-size:70px;
