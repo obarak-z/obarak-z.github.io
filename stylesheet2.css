@@ -99,11 +99,6 @@ body {
     height: 150px;
     font-size: 18px;
 }
-.music {
-    border-right: 1px solid black;
-    border-left: 1px solid black;
-}
-
 .message {
     font-family: fantasy;
     padding-top: 50px;
@@ -145,13 +140,13 @@ body {
 		display: none;
 	}
 	.copy-continer span{
-		font-size: 55px;
+		font-size: 48px;
 	}
 	.copy-continer h1{
-		font-size: 22px;
+		font-size: 18px;
 	}
 	.copy-continer h2{
-		font-size: 15px;
+		font-size: 13px;
 	}
 	.header span {
 		display: block;
@@ -172,5 +167,8 @@ body {
 		text-align: center;
 		margin-top: 150px;
 		font-size: 13px;
+	}
+	.music {
+		display: block;
 	}
 }
