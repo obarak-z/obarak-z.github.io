@@ -144,6 +144,15 @@ body {
 	.header-list {
 		display: none;
 	}
+	.copy-continer span{
+		font-size: 55px;
+	}
+	.copy-continer h1{
+		font-size: 22px;
+	}
+	.copy-continer h2{
+		font-size: 15px;
+	}
 	.header span {
 		display: block;
 	}
