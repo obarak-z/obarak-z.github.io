@@ -119,13 +119,12 @@ body {
     padding:10px;
     margin: 0 300px;
     cursor:pointer;
-    box-shadow: 5px 7px gray;
+    box-shadow: 0 7px gray;
 }
 .message-form:active{
     box-shadow: none;
     position: relative;
     top:7px;
-    left: 5px;
 }
 .footer{
     font-family:serif;
@@ -146,7 +145,6 @@ body {
         text-align:center;
     }
     content-top {
-        width:100%;
         margin: 0 0 50px 0;
     }
     .content {
@@ -158,10 +156,10 @@ body {
 	.header span{
 		display: block;
 	}
-	header-list {
+	header-list ul{
 		display: none;
 	}
 	.message-form {
-		margin: 0;
+		margin: 0 0 70px 0;
 	}
 }
