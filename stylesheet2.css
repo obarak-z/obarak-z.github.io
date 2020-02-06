@@ -149,7 +149,7 @@ body {
         width:100%;
         margin: ;
     }
-    .content-item {
+    .content {
         width: 100%;
     }
     .message {
@@ -157,5 +157,8 @@ body {
     }
 	.header span{
 		display: block;
+	}
+	header-list {
+		display: none;
 	}
 }
